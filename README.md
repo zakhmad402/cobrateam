@@ -1,2 +1,0 @@
-# cobrateam
-Cobra Team
